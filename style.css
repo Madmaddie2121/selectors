@@ -1,0 +1,39 @@
+img{
+    width: 400px;
+    height: 400px;
+    margin: 8%;
+    box-shadow: 10px 10px 10px gray;
+    border: 5px dashed #8e3434;
+    border-radius: 50%;
+    background-color: rgb(6, 26, 26);
+}
+body{
+    background-color: rgb(169, 231, 231);
+}
+.goddesses{
+    border-radius: 10%;
+}
+#button{
+    color: #8e3434;
+    background-color: wheat;
+    display: block;
+}
+#Top{
+    background-color: rgb(24, 151, 108);
+    text-align: center;
+    width: 300px;
+    
+}
+p{
+    background-color: blanchedalmond;
+    overflow: auto;
+    height: 300px;
+}
+#body{
+    display: inline-block;
+    width: 700px;
+}
+#Shiva{
+    margin: 4%;
+    width: 400px;
+}
